@@ -19,4 +19,4 @@ I am particularly interested in:
 - **Customer Experience Improvement**: Using data to identify trends and areas for improvement in customer service and satisfaction.
 - **Continuous Learning**: Always looking for new opportunities to learn and grow in the field of data analytics.
 
-Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/jade-a-43a0b3140?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BQdqFEs8RQmm31139uJ65hA%3D%3D)and check out my projects on [GitHub](https://github.com/jadealx/SQL). I'm excited to share my journey and projects with you!
+Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/jade-a-43a0b3140?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BQdqFEs8RQmm31139uJ65hA%3D%3D). I'm excited to share my journey and projects with you!
