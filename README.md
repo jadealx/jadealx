@@ -19,4 +19,4 @@ I am particularly interested in:
 - **Customer Experience Improvement**: Using data to identify trends and areas for improvement in customer service and satisfaction.
 - **Continuous Learning**: Always looking for new opportunities to learn and grow in the field of data analytics.
 
-Feel free to connect with me on [LinkedIn](www.linkedin.com/in/jade-alexander- I'm excited to share my journey and projects with you!
+Feel free to connect with me on [LinkedIn](www.linkedin.com/in/jade-alexander-) I'm excited to share my journey and projects with you!
